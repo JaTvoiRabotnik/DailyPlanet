@@ -1,0 +1,8 @@
+{
+  "project_name": "Daily Planet - Go",
+  "project_description": "A crawler for government data that is published daily.",
+  "show_files": [
+    "main.go",
+    "app.yaml"
+  ]
+}
